@@ -1,0 +1,3 @@
+
+DenseNet for cifar-100 from https://github.com/pokaxpoka/deep_Mahalanobis_detector
+

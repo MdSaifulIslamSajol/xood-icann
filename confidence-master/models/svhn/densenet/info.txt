@@ -1,0 +1,3 @@
+
+DenseNet for SVHN from https://github.com/pokaxpoka/deep_Mahalanobis_detector
+

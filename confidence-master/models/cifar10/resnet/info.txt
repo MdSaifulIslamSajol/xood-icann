@@ -1,0 +1,3 @@
+
+ResNet for cifar-10 from https://github.com/pokaxpoka/deep_Mahalanobis_detector
+

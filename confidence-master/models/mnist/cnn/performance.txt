@@ -1,0 +1,2 @@
+Train: 	 Loss: 	 0.01980036417444547 	 Accuacy: 	 0.99415
+Test: 	 Loss: 	 0.02576317757368088 	 Accuacy: 	 0.9911

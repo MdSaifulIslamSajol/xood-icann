@@ -1,0 +1,4 @@
+:Accuracy
+Train:0.96994
+Val:0.7792
+Test:0.7734
