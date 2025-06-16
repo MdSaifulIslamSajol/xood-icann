@@ -19,4 +19,4 @@ conda create -n env_name python=3.8 pytorch numpy matplotlib scipy scikit-learn 
 
 ### Download datasets and pretrained models from this link https://lsu.box.com/s/0gq69do3gsqzmcjcdi0y2jhn629ptred 
 
-### Run the file test_ood.py to compute results/
+### Run the file test_ood.py to compute results.
