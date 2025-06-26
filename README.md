@@ -17,6 +17,6 @@ The confidence algorithm is in confidenciator.py.
 ### Set up conda environment
 conda create -n env_name python=3.8 pytorch numpy matplotlib scipy scikit-learn pandas scikit-image tensorflow-gpu torchvision cudatoolkit=11.3 -c pytorch
 
-### Download datasets and pretrained models from this link https://lsu.box.com/s/0gq69do3gsqzmcjcdi0y2jhn629ptred 
+Download datasets and pretrained models from this link https://lsu.box.com/s/0gq69do3gsqzmcjcdi0y2jhn629ptred 
 
 ### Run the file test_ood.py to compute results.
